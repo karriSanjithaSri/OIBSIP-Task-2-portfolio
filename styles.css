@@ -1,0 +1,218 @@
+body{
+    text-align: center;
+    background-color:rgb(247, 254, 254);
+    display:grid
+}
+.header{
+    position:relative;
+    top:0;
+    left:0;
+    width:80%;
+    padding:30px 10%;
+    background-color:rgb(194, 239, 252);
+    display:flex;
+    justify-content:space-between;
+    align-items:centre;
+    color:rgb(22, 181, 244);
+    
+}
+.header>h1{
+    font-family:serif;
+}
+
+.navbar a{
+    font-size: 25px;
+    color:rgb(22, 181, 244);
+    font-weight: 500;
+    margin-left:20px;
+    text-decoration: none;
+    
+}
+
+.edu h3{
+    
+    font-family: Arial, Helvetica, sans-serif;
+    color:darkslategray;
+    font-size:x-large;
+    margin-top: 70px;
+    margin-bottom:3px;
+}
+
+.edu table{
+    margin: auto;
+    border-collapse:separate;
+    border:3px solid black;
+    margin-top:15px;
+    
+}
+#th{
+    font-size:large;
+}
+.skills h3{
+    font-family: Arial, Helvetica, sans-serif;
+    color:darkslategray;
+    font-size:x-large;
+    margin-top: 70px;
+
+    margin-bottom:3px;
+
+}
+.skills ul {
+    font-size:17px;
+    list-style-position:inside;
+    display:grid;
+    margin-top: 10px;
+    margin-left:500px;
+    width: 55%;
+    text-align: justify;
+    
+    
+}
+.skills ul li{
+    line-height: 1.5;
+
+}
+
+
+
+.projects h3{
+    font-family: Arial, Helvetica, sans-serif;
+    color:darkslategray;
+    font-size:x-large;
+    margin-bottom:3px;
+    margin-top: 70px;
+
+}
+
+.projects h4{
+    font-size: larger;
+    color:cornflowerblue;
+    margin-top: 10px;
+}
+
+.projects img{
+    margin-bottom: 10px;
+}
+ 
+.courses h3{
+    font-family: Arial, Helvetica, sans-serif;
+    color:darkslategray;
+    font-size:x-large;
+    margin-bottom:3px;
+    margin-top: 50px;
+
+
+}
+.courses ul{
+    font-size:17px;
+    list-style-position:inside;
+    display: block;
+    margin-top: 10px;
+    margin-left:500px;
+    width: 55%;
+    text-align: justify;
+}
+
+.courses ul li{
+    line-height: 1.5;
+    text-align: justify;
+
+}
+
+.courses ul li a{
+    text-decoration: none;
+    outline:none;
+    
+    padding-left: 10px;
+
+}
+
+
+
+.other h3{
+    font-family: Arial, Helvetica, sans-serif;
+    color:darkslategray;
+    font-size:x-large;
+    margin-bottom:3px;
+    margin-top: 70px;
+
+
+}
+
+.hobbies{
+    font-size: larger;
+    list-style-position:inside;
+    color:cornflowerblue;
+    margin-right:300px;
+
+}
+.hobbieslist {
+    font-size:17px;
+    list-style-position:inside;
+    display: block;
+    margin-top: 10px;
+    margin-left:500px;
+    width: 55%;
+    text-align: justify;
+
+
+}
+
+.strengths{
+    font-size: larger;
+    list-style-position:inside;
+    color:cornflowerblue;
+    margin-right:300px;
+
+}
+.strengthslist {
+    font-size:17px;
+    list-style-position:inside;
+    display: block;
+    margin-top: 10px;
+    margin-left:500px;
+    width: 55%;
+    text-align: justify;
+}
+
+
+.summary h3{
+    font-family: Arial, Helvetica, sans-serif;
+    color:darkslategray;
+    font-size:x-large;
+    margin-bottom:3px;
+    margin-top: 70px;
+
+
+}
+
+.summary p{
+    font-size:large ;
+}
+
+.footer{
+    position:relative;
+    top:0;
+    left:0;
+    width:80%;
+    padding:50px 10%;
+    background-color:rgb(194, 239, 252);
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    color:rgb(22, 181, 244);
+    margin-top: 70px;
+
+}
+
+.footerlink{
+    margin-right: 10px;
+    margin-left: 10px;
+    font-size: 25px;
+    color:rgb(22, 181, 244);
+    font-weight: 50;
+    text-decoration:none;
+    
+}
+
+
